@@ -1,20 +1,27 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
-- text: Explore
+- text: Om DanBIF
+  href: /om-danbif
+- text: Resourcer
+  href: /digitale-resourcer
   menu: 
-  - text: Occurrences
+  - text: Resourcer
+    href: /digitale-resourcer
+  - text: Entomologiske meddelelser
+    href: /research-files/litteratur/entomologiske-meddelelser/
+- text: Data
+  menu: 
+  - text: Observationer
     href: /occurrence/search
-  - text: Institutions
+  - text: Museer
     href: /institution/search
-  - text: Collections
+  - text: Samlinger
     href: /collection/search
-  - text: Datasets
+  - text: Datasæt
     href: /dataset/search
-  - text: Publishers
+  - text: Forelæggere
     href: /publisher/search
-  - text: Literature
+  - text: Litteratur
     href: /literature/search
-- text: News
-  href: /news
+- text: Nyheder
+  href: /post

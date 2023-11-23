@@ -1,23 +1,22 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
+title: DanBIF
+description: DanBIF varetager Danmarks medlemskab af Global Biodiversity Information Facility (GBIF)
+background:  /assets/images/website/2010-06-16_13-20-34_1100x600.jpg
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
-height: 90vh
-height: 70vh
+height: 50vh
 permalink: /
 navbar: 
   color: "transparent"        # What color should the navbar be?
   hasWhiteText: true          # Should the text color be white?
   floating: true
 cta:
-  - text: Occurrences
+  - text: Observationer
     href: /occurrence/search
     isPrimary: true
-  - text: About
-    href: /about
+  - text: Om DanBIF
+    href: /om-danbif
 composition:
   - type: heroImage
   - type: stories

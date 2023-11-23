@@ -1,8 +1,12 @@
 en:
   label: English
   icon:  # optional
-fr:
-  label: French
+  archive_permalink: /en/post
+  storiesLocale: en-GB
+  widgetLocale: en
+da:
+  label: Dansk
   icon:  # optional
-  storiesLocale: fr
-  widgetLocale: fr
+  storiesLocale: da
+  widgetLocale: da
+  archive_permalink: /post

@@ -1,0 +1,27 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About DanBIF
+  href: /en/about-danbif
+- text: Resources
+  href: /en/digital-resources
+  menu: 
+  - text: Resources
+    href: /en/digital-resources
+  - text: Entomological Publications
+    href: /en/research-files/literature/entomological-publications/
+- text: Data
+  menu: 
+  - text: Occurrences
+    href: /en/occurrence/search
+  - text: Institutions
+    href: /en/institution/search
+  - text: Collections
+    href: /en/collection/search
+  - text: Datasets
+    href: /en/dataset/search
+  - text: Publishers
+    href: /en/publisher/search
+  - text: Literature
+    href: /en/literature/search
+- text: News
+  href: /en/post

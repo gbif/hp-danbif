@@ -1,7 +1,7 @@
 var primaryColor = themeStyle && themeStyle.colors && themeStyle.colors.primary;
 var isSquared = themeStyle && themeStyle.square;
 
-const countryCode = 'FR';
+const countryCode = 'DK';
 
 if (primaryColor) {
   var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', extendWith: {
@@ -47,7 +47,7 @@ var siteConfig = {
         }
       ]
     },
-    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'publisherKey', 'elevation', 'year', 'basisOfRecord', 'datasetName', 'occurrenceIssue'],
+    highlightedFilters: ['taxonKey', 'gadmGid', 'year', 'occurrenceIssue'],
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
