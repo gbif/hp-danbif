@@ -2,7 +2,7 @@
 lang-ref: om-danif
 layout: heroImage
 title: Om DanBIF
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Kerneydelser og arbejdsområder
 background: /assets/images/website/2021-05-15_11-25-37_1100x410.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
