@@ -1,8 +1,8 @@
 ---
 lang-ref: digitale-resourcer
 layout: heroImage
-title: Digitale resourcer
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: Digitale ressourcer
+description: Tidsskrifts-artikler og bogværker på digital form
 background: /assets/images/website/2021-06-17_16-09-49_1100x410.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
