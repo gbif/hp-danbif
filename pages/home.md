@@ -21,10 +21,10 @@ composition:
   - type: heroImage
 ##  - type: stories
 ##    data: examples.stories
-  - type: split
-    data: examples.herbariumImageExample
   - type: features
-    data: examples.couldBeAnyName
+    data: examples.couldBeAnyName  
+  - type: split
+    data: examples.herbariumImageExample 
 ---
 
 Edit `/home.md` to change the text.
