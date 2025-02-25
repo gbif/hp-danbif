@@ -19,8 +19,8 @@ cta:
     href: /om-danbif
 composition:
   - type: heroImage
-  - type: stories
-    data: examples.stories
+##  - type: stories
+##    data: examples.stories
   - type: split
     data: examples.herbariumImageExample
   - type: features
