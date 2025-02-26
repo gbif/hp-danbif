@@ -12,11 +12,11 @@ navbar:
   hasWhiteText: true          # Should the text color be white?
   floating: true
 cta:
-  - text: Observationer
+  - text: Se de data Danmark deler i GBIF
     href: /occurrence/search
     isPrimary: true
-  - text: Om DanBIF
-    href: /om-danbif
+##  - text: Om DanBIF
+##    href: /om-danbif
 composition:
   - type: heroImage
 ##  - type: stories
