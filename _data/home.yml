@@ -8,8 +8,8 @@ FrontpageCards:
         Her er DanBIFs [Github Wiki](/https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler data i GBIF og Arter.dk
       href: /https://github.com/NHMDenmark/DanBIF-Wiki/wiki
       # img required
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+      background: /assets/images/website/fair-282x300.png
+      imageLicense: Image from [https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/](https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/)
       # categories: [drawings] # optional
     - title: Fly moving land # required
       description: |      # required
