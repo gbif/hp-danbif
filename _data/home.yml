@@ -5,8 +5,8 @@ FrontpageCards:
   features:
     - title: Sådan deler du data i GBIF & Arter # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+        Her er DanBIFs [Github Wiki](/https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler data i GBIF og Arter.dk
+      href: /https://github.com/NHMDenmark/DanBIF-Wiki/wiki
       # img required
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
