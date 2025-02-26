@@ -22,7 +22,7 @@ composition:
 ##  - type: stories
 ##    data: examples.stories
   - type: features
-    data: examples.couldBeAnyName  
+    data: home.FrontpageCards  
   - type: split
     data: examples.herbariumImageExample 
 ---
