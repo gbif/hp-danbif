@@ -5,11 +5,11 @@ FrontpageCards:
   features:
     - title: Del dine data i GBIF & Arter # required
       description: |      # required
-        Her er DanBIFs [Github Wiki](/https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
+        Her er DanBIFs [Github Wiki](https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
       href: https://github.com/NHMDenmark/DanBIF-Wiki/wiki
       # img required
-      background: /assets/images/website/fair-282x300.png
-      imageLicense: Image from [https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/](https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/)
+      background: /assets/images/website/fair_landscape.jpg
+      imageLicense: Image from [https://snd.se/en/describe-and-share-data/share-data-fair-manner](https://snd.se/en/describe-and-share-data/share-data-fair-manner)
       # categories: [drawings] # optional
     - title: Fly moving land # required
       description: |      # required

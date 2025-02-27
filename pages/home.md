@@ -15,12 +15,12 @@ cta:
   - text: Se de data Danmark deler i GBIF
     href: /occurrence/search
     isPrimary: true
-##  - text: Om DanBIF
-##    href: /om-danbif
+#  - text: Om DanBIF
+#    href: /om-danbif
 composition:
   - type: heroImage
-##  - type: stories
-##    data: examples.stories
+#  - type: stories
+#    data: examples.stories
   - type: features
     data: home.FrontpageCards  
   - type: split
