@@ -3,10 +3,10 @@ FrontpageCards:
   #description: |
   #  Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
   features:
-    - title: Sådan deler du data i GBIF & Arter # required
+    - title: Del dine data i GBIF & Arter # required
       description: |      # required
-        Her er DanBIFs [Github Wiki](/https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler data i GBIF og Arter.dk
-      href: /https://github.com/NHMDenmark/DanBIF-Wiki/wiki
+        Her er DanBIFs [Github Wiki](/https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
+      href: https://github.com/NHMDenmark/DanBIF-Wiki/wiki
       # img required
       background: /assets/images/website/fair-282x300.png
       imageLicense: Image from [https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/](https://scholarlykitchen.sspnet.org/2020/03/05/is-it-finally-the-year-of-research-data-the-stm-association-thinks-so/fair-3/)

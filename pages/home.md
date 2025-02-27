@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: DanBIF
 description: DanBIF varetager Danmarks medlemskab af GBIF - Global Biodiversity Information Facility
-background:  /assets/images/website/2010-06-16_13-20-34_1100x600.jpg
+background:  /assets/images/website/Forest_Bog.jpg
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 50vh
 permalink: /

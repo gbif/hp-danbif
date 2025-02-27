@@ -3,7 +3,7 @@ lang-ref: digitale-resourcer
 layout: heroImage
 title: Digitale ressourcer
 description: Tidsskrifts-artikler og bogværker på digital form
-background: /assets/images/website/2021-06-17_16-09-49_1100x410.jpg
+background: /assets/images/website/Forest_heath_waterhole.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 40vh

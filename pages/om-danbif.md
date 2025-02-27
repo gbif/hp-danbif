@@ -3,7 +3,7 @@ lang-ref: om-danif
 layout: heroImage
 title: Om DanBIF
 description: Kerneydelser og arbejdsområder
-background: /assets/images/website/2021-05-15_11-25-37_1100x410.jpg
+background: /assets/images/website/Beach_Forest_Spring.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 40vh
