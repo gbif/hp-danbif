@@ -3,7 +3,7 @@ lang-ref: om-gbif
 layout: heroImage
 title: Om GBIF
 description: Global Biodiversity Information Facility
-background: /assets/images/website/2021-06-17_16-09-49_1100x410.jpg 
+background: /assets/images/website/LSKipper_Engelskgræs.JPG 
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 40vh

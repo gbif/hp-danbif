@@ -8,7 +8,7 @@ FrontpageCards:
         Her er DanBIFs [Github Wiki](https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
       href: https://github.com/NHMDenmark/DanBIF-Wiki/wiki
       # img required
-      background: /assets/images/website/fair_landscape.jpg
+      background: /assets/images/website/Baobab_Ngorogoro2008_crop.jpg
       imageLicense: Image from [https://snd.se/en/describe-and-share-data/share-data-fair-manner](https://snd.se/en/describe-and-share-data/share-data-fair-manner)
       # categories: [drawings] # optional
     - title: Fly moving land # required
