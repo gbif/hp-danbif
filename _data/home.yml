@@ -24,15 +24,15 @@ FrontpageCards:
       background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
       imageLicense: Unknown source
       # categories: [drawings] # optional
-    - title: Land man dry # required
+    - title: Hvad er Arter.dk # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+        - en portal for naturinteresserede, forskere og forvaltere.
+      href: /om-arter
+      background: /assets/images/website/LS-Viper.JPG
+      imageLicense: CC-BY-NC Foto L. Skipper
+    #- title: Abundantly light years # required
+      #description: |      # required
+      #  Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      #href: /about
+      #background: /assets/images/placeholders/blocks2.png
+      #imageLicense: None for this image, but normally you would provide one here
