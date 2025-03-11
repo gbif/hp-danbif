@@ -5,7 +5,7 @@ title: Om GBIF
 description: Global Biodiversity Information Facility
 background: /assets/images/website/LSKipper_Engelskgræs.JPG 
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  CC-BY-NC Foto: L. Skipper.
 height: 40vh
 permalink: /om-gbif
 toc: true
