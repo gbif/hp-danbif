@@ -24,6 +24,7 @@ FrontpageCards:
       background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
       imageLicense: Unknown source
       # categories: [drawings] # optional
+      
 Arterbanner:
   split:
 
@@ -33,5 +34,4 @@ Arterbanner:
       href: /om-arter
       background: /assets/images/website/LS-Viper.JPG
       imageLicense: CC-BY-NC Foto L. Skipper
-      
-      
+    
