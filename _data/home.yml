@@ -11,25 +11,25 @@ FrontpageCards:
       background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
       imageLicense: Unknown source
       # categories: [drawings] # optional
-    #- title: Hvad er GBIF # required
+    - title: Hvad er GBIF # required
       description: |      # required
         En kort introduktion til [GBIF](https://gbif.org).
-      href: gbif/hp-danbif/pages/om-gbif.md
+      href: /om-gbif
       background: /assets/images/website/IC-Tidsel.jpg
       imageLicense: CC-BY-NC Foto: I. Calabuig
-    #- title: Hvad er DanBIF # required
+    - title: Hvad er DanBIF # required
       description: |      # required
         En introduktion til DanBIF opgaver og virke
-      href: gbif/hp-danbif/pages/om-danbif.md
+      href: /om-danbif
       background: /assets/images/website/LS-Spider_Frons.jpg
       imageLicense: CC-BY-NC Foto: L. Skipper
-    #- title: Land man dry # required
+    - title: Land man dry # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
-    #- title: Abundantly light years # required
+    - title: Abundantly light years # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
