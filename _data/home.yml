@@ -14,13 +14,13 @@ FrontpageCards:
     - title: Hvad er GBIF # required
       description: |      # required
         En kort introduktion til [GBIF](https://gbif.org).
-      href: /pages/om-gbif
+      href: /om-gbif
       background: /assets/images/website/IC-Tidsel.jpg
       imageLicense: CC-BY-NC Foto: I. Calabuig
     - title: Hvad er DanBIF # required
       description: |      # required
         En introduktion til DanBIF opgaver og virke
-      href: /pages/om-danbif.md
+      href: /om-danbif
       background: /images/website/LS-Spider_Frons.jpg
       imageLicense: CC-BY-NC Foto: L. Skipper
     - title: Land man dry # required
