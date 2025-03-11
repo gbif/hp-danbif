@@ -25,6 +25,8 @@ FrontpageCards:
       imageLicense: Unknown source
       # categories: [drawings] # optional
 Arter-banner:
+  split:
+  
     - title: Hvad er Arter.dk # required
       description: |      # required
         En portal for naturinteresserede, forskere og forvaltere.
