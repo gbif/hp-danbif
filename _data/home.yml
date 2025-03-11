@@ -16,13 +16,13 @@ FrontpageCards:
         En kort introduktion til [GBIF](https://gbif.org).
       href: /om-gbif
       background: /assets/images/website/IC-Tidsel.jpg
-      imageLicense: CC-BY-NC Foto: I. Calabuig
+      imageLicense: CC-BY-NC Foto I. Calabuig
     - title: Hvad er DanBIF # required
       description: |      # required
         En introduktion til DanBIF opgaver og virke
       href: /om-danbif
       background: /assets/images/website/LS-Spider_Frons.jpg
-      imageLicense: CC-BY-NC Foto: L. Skipper
+      imageLicense: CC-BY-NC Foto L. Skipper
     - title: Land man dry # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
