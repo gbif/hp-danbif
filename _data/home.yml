@@ -24,9 +24,9 @@ FrontpageCards:
       background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
       imageLicense: Unknown source
       # categories: [drawings] # optional
-Arter-banner:
+Arterbanner:
   split:
-  
+
     - title: Hvad er Arter.dk # required
       description: |      # required
         En portal for naturinteresserede, forskere og forvaltere.
