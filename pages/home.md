@@ -24,7 +24,7 @@ composition:
   - type: features
     data: home.FrontpageCards  
   - type: split
-    data: examples.herbariumImageExample 
+    data: home.Arter-banner 
 ---
 
 Edit `/home.md` to change the text.
