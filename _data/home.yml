@@ -21,7 +21,7 @@ FrontpageCards:
       description: |      # required
         En introduktion til DanBIF opgaver og virke
       href: /om-danbif
-      background: /images/website/LS-Spider_Frons.jpg
+      background: /assets/images/website/LS-Spider_Frons.jpg
       imageLicense: CC-BY-NC Foto: L. Skipper
     - title: Land man dry # required
       description: |      # required
