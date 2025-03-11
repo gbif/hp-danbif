@@ -3,14 +3,7 @@ FrontpageCards:
   #description: |
   #  Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
   features:
-    - title: Del dine data i GBIF & Arter # required
-      description: |      # required
-        Her er DanBIFs [Github Wiki](https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
-      href: https://github.com/NHMDenmark/DanBIF-Wiki/wiki
-      # img required
-      background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
-      imageLicense: Unknown source
-      # categories: [drawings] # optional
+    
     - title: Hvad er GBIF # required
       description: |      # required
         En kort introduktion til [GBIF](https://gbif.org).
@@ -23,6 +16,14 @@ FrontpageCards:
       href: /om-danbif
       background: /assets/images/website/LS-Spider_Frons.jpg
       imageLicense: CC-BY-NC Foto L. Skipper
+    - title: Del dine data i GBIF & Arter # required
+      description: |      # required
+        Her er DanBIFs [Github Wiki](https://github.com/NHMDenmark/DanBIF-Wiki/wiki), der guider til hvordan du deler dine data i GBIF og Arter.dk
+      href: https://github.com/NHMDenmark/DanBIF-Wiki/wiki
+      # img required
+      background: /assets/images/website/Unknown-Coprinus_plic_lameller.JPG
+      imageLicense: Unknown source
+      # categories: [drawings] # optional
     - title: Land man dry # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
