@@ -3,7 +3,6 @@ FrontpageCards:
   #description: |
   #  Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
   features:
-    
     - title: Hvad er GBIF # required
       description: |      # required
         En kort introduktion til [GBIF](https://gbif.org).
@@ -26,12 +25,11 @@ FrontpageCards:
       # categories: [drawings] # optional
       
 Arterbanner:
-  split:
-
-    - title: Hvad er Arter.dk # required
-      description: |      # required
-        En portal for naturinteresserede, forskere og forvaltere.
-      href: /om-arter
-      background: /assets/images/website/LS-Viper.JPG
-      imageLicense: CC-BY-NC Foto L. Skipper
+  reverse: false
+  title: Hvad er Arter.dk # required
+  description: |      # required
+    En portal for naturinteresserede, forskere og forvaltere.
+  href: /om-arter
+  background: /assets/images/website/LS-Viper.JPG
+  imageLicense: CC-BY-NC Foto L. Skipper
     

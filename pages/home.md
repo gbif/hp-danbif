@@ -22,9 +22,11 @@ composition:
 #  - type: stories
 #    data: examples.stories
   - type: features
-    data: home.FrontpageCards  
+    data: home.FrontpageCards 
   - type: split
-    data: home.Arterbanner 
+    data: home.Arterbanner
+
+permalink: /
 ---
 
 Edit `/home.md` to change the text.
