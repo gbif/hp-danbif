@@ -23,6 +23,8 @@ composition:
 #    data: examples.stories
   - type: features
     data: home.FrontpageCards 
+  - type : stats
+    data: home.stats
   - type: split
     data: home.Arterbanner
 
