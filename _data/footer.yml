@@ -13,13 +13,16 @@ columns:
   - name: Code
     description: | # Can be Markdown
       This project is open source. See `_data/footer.yml` to customize the footer.
+      * Icons by [Icones8](https://icones8.com/)
   
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * DanBIF v/ Sektionen for digitale samlinger
+      * Statens Naturhistoriske Musuem
+      * Universitetsparken 15
+      * DK-2100 København Ø
+      * Danmark
     connectIcons: true
 
   # EXAMPLE
