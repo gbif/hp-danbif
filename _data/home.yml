@@ -1,3 +1,27 @@
+# The home landing page
+stats:
+  features:
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%0A%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22DK%22%5D%7D%5D%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">9,000,000</span>
+      description: GBIF datapunkter om Danmark
+      background: /assets/images/icons/france.png
+      href: https://www.gbif.org/en/occurrence/search?country=DK "target='_blank'"
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=%0Aquery%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20in%2C%20key%3A%20%22publishingCountry%22%2C%20values%3A%20%5B%22DK%22%5D%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">9,000,000</span>
+      description: Datapunkter Danmark deler i GBIF
+      background: /assets/images/icons/occurrences2.png
+      href: https://www.gbif.org/en/occurrence/search?publishing_country=DK&advanced=1 "target='_blank'"
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=DK&advanced=1">100,000</span>
+      description: Datasæt publiceret af Danmark
+      background: /assets/images/icons/datasets2.png
+      href: https://www.gbif.org/dataset/search?publishing_country=DK&advanced=1 "target='_blank'"
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=DK&limit=0&isEndorsed=true">100,000</span>
+      description: Dataholdere i Danmark
+      background: /assets/images/icons/publishers2.png
+      href: /publisher/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=DK&peerReview=true">100,000</span>
+      description: Peer-reviewed publikationer med forfattere i Danmark, der bruger data fra GBIF 
+      background: /assets/images/icons/literature2.png
+      href: /literature/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=DK&peerReview=true
+
 FrontpageCards:
   # title: 
   #description: |
